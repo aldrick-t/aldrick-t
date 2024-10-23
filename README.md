@@ -1,5 +1,6 @@
 ## hey! 👋
 
+Here's a few of my areas of interest and expertise:
 - Robotics
 - Embedded Systems
 - Computer Vision
