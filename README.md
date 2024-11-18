@@ -1,10 +1,15 @@
-## :)
+### :)
 
-Here's a few of my areas of interest and expertise:
+# A few of my areas of interest and expertise:
 - Robotics
 - Embedded Systems
 - Computer Vision
 - ML
+- Telemetry Systems
+
+# Working on:
+- Computer Vision w/ OpenCV
+- Telemetry for Electrum
 
 ```python
 languages = ["Python", "C/C++", "Embedded C/C++", "Assembly", "VHDL", "R", "Node.js"]
