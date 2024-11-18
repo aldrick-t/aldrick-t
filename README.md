@@ -1,13 +1,13 @@
-### :)
+# :)
 
-# A few of my areas of interest and expertise:
+##### A few of my areas of interest and expertise:
 - Robotics
 - Embedded Systems
 - Computer Vision
 - ML
 - Telemetry Systems
 
-# Working on:
+##### Working on:
 - Computer Vision w/ OpenCV
 - Telemetry for Electrum
 
