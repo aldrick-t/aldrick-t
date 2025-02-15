@@ -6,9 +6,10 @@
 - Computer Vision
 - ML
 - Telemetry Systems
+- Computer Vision
 
 ##### Working on:
-- Computer Vision w/ OpenCV
+- ROS for mobile robotics
 - Telemetry for Electrum
 
 ```python
