@@ -4,7 +4,6 @@
 - Computer Vision
 - ML
 - Telemetry Systems
-- Computer Vision
 
 ##### Working on:
 - ROS for mobile robotics
